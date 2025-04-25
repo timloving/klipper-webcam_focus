@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Control focus on webcam using printer's XY coordinates,
 # and/or control other webcam settings using gcode macros.
 #
